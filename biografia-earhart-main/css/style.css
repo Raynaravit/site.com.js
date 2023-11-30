@@ -1,0 +1,43 @@
+
+
+.div1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.div2
+{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px; 
+}
+
+.menu{
+    padding: auto;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+ ul,li{
+    background-color: aqua;
+ }
+ h2{
+    background-color: blue;
+ }
+ nav,a{
+    background-color: rgb(219, 207, 230);
+ }
+
+
+h1{
+    background-color: rgb(42, 165, 52);
+}
+
